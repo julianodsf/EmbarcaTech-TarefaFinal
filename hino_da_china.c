@@ -97,9 +97,9 @@ const int hino[84][3] = {
     {D4, 579, 46},
     {G4, 579, 46},
     {G4, 579, 0},
-   };
+};
 
-// funcao para tocar cada nota
+// funcao para tocar cada nota da música
 void playHinoDaChina(uint buzzer_pin, const int notas[][3], size_t tam) {
     for (size_t i = 0; i < tam; i++) {
         int frequencia = notas[i][0];
@@ -129,7 +129,7 @@ int main() {
 
     // Toca o hina da China em loop
     while(1){
-        playHinoDaChina(BUZZER_PIN, hino, 84);   
+        playHinoDaChina(BUZZER_PIN, hino, sizeof (hino) / sizeof (hino[0]));   
     }
 
     return 0;
