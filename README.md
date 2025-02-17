@@ -1,4 +1,4 @@
-Descrição
+##Descrição
 Como projeto final para o EmbarcaTech, escrevi um código em C que é usado para tocar o hino da China usando um buzzer o passivo conectado no Raspberry Pi Pico W da placa BitDogLab. A escolha do hino é uma brincadeira com o fato de que atualmente as maiores inovações tecnológicas surgem na China.
 O código é baseado nos seguintes:
 BitDogLab-C/buzzer_pwm1/buzzer_pwm1.c at main · BitDogLab/BitDogLab-C
