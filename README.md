@@ -11,7 +11,7 @@ A escolha do hino é uma brincadeira com o fato de que atualmente as maiores ino
 ## Configuração
 A música padrão é o hino da China, mas pode-se colocar outras músicas.
 A Partir de um arquivo midi, é possível converter para um arquivo .ino utilizando 
-o site [https://arduinomidi.netlify.app/](MIDI to Arduino Tone). Basta extrair a matriz de notas e substituir no arquivo .c 
+o site [https://arduinomidi.netlify.app](MIDI to Arduino Tone). Basta extrair a matriz de notas e substituir no arquivo .c 
 modificando as dimensões.
 
 Link para o projeto: [https://github.com/julianodsf/EmbarcaTech-TarefaFinal/tree/main](https://github.com/julianodsf/EmbarcaTech-TarefaFinal/tree/main)
