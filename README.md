@@ -3,7 +3,7 @@ Como projeto final para o EmbarcaTech, escrevi um código em C que é usado para
 o hino da China usando um buzzer o passivo conectado no Raspberry Pi Pico W da placa BitDogLab. 
 A escolha do hino é uma brincadeira com o fato de que atualmente as maiores inovações tecnológicas surgem na China.
 
-# O código é baseado nos seguintes:
+O código é baseado nos seguintes:
 
 [https://github.com/BitDogLab/BitDogLab-C/blob/main/buzzer_pwm1/buzzer_pwm1.c](https://github.com/BitDogLab/BitDogLab-C/blob/main/buzzer_pwm1/buzzer_pwm1.c)
 [https://github.com/BitDogLab/BitDogLab/blob/main/softwares/Festas/Menasagem%20de%20Natal%20A4.py](https://github.com/BitDogLab/BitDogLab/blob/main/softwares/Festas/Menasagem%20de%20Natal%20A4.py)
